@@ -1,0 +1,53 @@
+h1 {
+    color: white;
+    
+    font-size: 4em;
+    font-family: Trattatello, fantasy;
+    margin-left: 60%;
+    margin-top: 20px;
+}
+h2 {
+    color: purple;
+    margin:0;
+}
+
+.crystal-img:hover {
+    background-color: purple;
+    
+    
+}
+.form-inline{
+    margin-left: px;
+}
+    
+
+body { 
+    background-color: lightgrey;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right,#16112c,#1c0931,#17011a);
+    color: white;
+    margin: 0;
+}
+ 
+
+.btn-info {
+    color: #fff;
+    background-color: #b81717;
+    border-color: #460707;
+    
+}
+.stuff {
+    width: auto;
+    height: 280px;
+}
+.tester {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+hr{
+    margin:0;
+}
